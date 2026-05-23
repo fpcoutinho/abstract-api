@@ -15,4 +15,6 @@
 coverage.out
 *.log
 
+api-key.json
+
 vendor/
